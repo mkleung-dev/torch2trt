@@ -1,4 +1,4 @@
-# torch2trt
+# torch2trt (TensorRT 8 Compatibility)
 
 > What models are you using, or hoping to use, with TensorRT?  Feel free to join the discussion [here](https://github.com/NVIDIA-AI-IOT/torch2trt/discussions/531).
  
